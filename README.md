@@ -8,11 +8,6 @@ Always eager to learn new things.
 
 ---
 
-### 🚀 What I'm working on
-- iOS apps using **Swift**
-
----
-
 ### 🛠️ Tech Stack
 - **Languages:** Swift, JavaScript, TypeScript
 - **iOS:** SwiftUI, UIKit, MVVM, ViewCode
