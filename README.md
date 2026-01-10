@@ -17,7 +17,7 @@ Always eager to learn new things.
 
 ### 📌 Featured Projects
 - 🔑 **the Secrets Manager (iOS)**  
-  Offline-first app using Keychain, CryptoKit and biometric authentication
+  Offline-first secrets management app using Keychain, CryptoKit and biometric authentication
 
 - ⚖️ **Backend GAJ (REST API)**  
   REST API in Node.js for legal workflow management
