@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm João Victor
 
 Cybersecurity Analyst with a strong interest in iOS development, focusing on
-secure, privacy-first and well-architected mobile applications.
+secure, privacy-first and well-architected mobile applications.  
 Always eager to learn new things.
 
 🔐 Security • 📱 iOS • 🧱 Architecture
