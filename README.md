@@ -4,12 +4,12 @@ Cybersecurity professional with a strong interest in iOS development, focusing o
 secure, privacy-first and well-architected mobile applications.  
 Always eager to learn new things.
 
-🔐 Security • 📱 iOS • 🧱 Architecture
+🔐 Security • 📱 iOS
 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Swift, JavaScript, TypeScript
+- **Languages:** Swift, JavaScript, TypeScript, Python
 - **iOS:** SwiftUI, UIKit, MVVM, ViewCode
 - **Tools:** Xcode, VSCode, Git
 
@@ -17,7 +17,7 @@ Always eager to learn new things.
 
 ### 📌 Featured Projects
 - 🔑 **the Secrets Manager (iOS)**  
-  Offline-first secrets management app using Keychain, CryptoKit and biometric authentication
+  Secrets management app using Keychain, SwiftData and biometric authentication
 
 - ⚖️ **Backend GAJ (REST API)**  
   REST API in Node.js for legal workflow management
