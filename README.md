@@ -16,7 +16,7 @@ Always eager to learn new things.
 ---
 
 ### 📌 Featured Projects
-- 🔑 **the Secrets Manager (iOS)**  
+- 🔑 **the Safe (iOS)**  
   Secrets management app using Keychain, SwiftData and biometric authentication
 
 - ⚖️ **Backend GAJ (REST API)**  
